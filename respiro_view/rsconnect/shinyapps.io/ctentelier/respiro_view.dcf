@@ -1,0 +1,13 @@
+name: respiro_view
+title: respiro_view
+username:
+account: ctentelier
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 242575
+bundleId: 1326326
+url: https://ctentelier.shinyapps.io/respiro_view/
+when: 1524087141.93576
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data Val/.Rhistory|data Val/03-12-09A-ch1.txt|data Val/03-12-09A-ch4.txt|data Val/23-03-10A-ch1-ch2.txt|data Val/24-03-10B-ch2.txt|data Val/26-03-10A-ch3.txt|data Val/26-11-09A-ch2.txt|data Val/27-03-10B-ch3.txt|data Val/script BG civelles 03_12, 23_27 03.txt|data Val/script_1file.R
